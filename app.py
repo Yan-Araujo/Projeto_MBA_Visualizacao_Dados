@@ -18,7 +18,7 @@ if os.path.exists(csv_file):
       ## Grupo:
       - Gabriel Guimarães
       - Joice Cavalcanti
-      - Marialus Fabisak
+      - Marialua Fabisak
       - Yan Araújo    
   """)
 

@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#4682B4"  # Define a cor primária dos widgets
+backgroundColor="#FFFFFF"  # Cor do fundo da aplicação
+secondaryBackgroundColor="#F0F2F6"  # Cor de fundo para seções e widgets
+textColor="#000000"  # Cor do texto
+font = "sans serif"
