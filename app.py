@@ -13,15 +13,6 @@ if os.path.exists(csv_file):
 
   chart_colors = ['#4682B4', '#FF6347']
 
-  st.title("Projeto Visualização de Dados")
-  st.markdown("""
-      ## Grupo:
-      - Gabriel Guimarães
-      - Joice Cavalcanti
-      - Marialua Fabisak
-      - Yan Araújo    
-  """)
-
   st.markdown("""
   #### 1.⁠ ⁠Introdução do Problema:
   - O governo enfrenta um grande desafio no diagnóstico de tumores malignos e benignos: identificar quais tumores realmente necessitam de cirurgia. A meta é otimizar o tratamento dos pacientes, garantindo que as intervenções cirúrgicas ocorram apenas quando absolutamente necessárias. Isso visa melhorar a qualidade de vida dos pacientes e economizar recursos médicos.
